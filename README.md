@@ -1,5 +1,5 @@
 # brainlearn experience viewer
-Tool to edit "brainlearn-like" experience data
+Tool to edit "brainlearn-like" experience.bin file
 
 Prerequisites :<br>
 copy [pgn-extract.exe](https://github.com/chris13300/brainlearn_experience_viewer/blob/main/brainlearn%20Experience%20Viewer/bin/x64/Debug/pgn-extract.exe) to your BRAINLEARN EXPERIENCE VIEWER folder<p>
