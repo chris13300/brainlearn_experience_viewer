@@ -1,4 +1,4 @@
-# brainlearn experience viewer
+# brainlearn Experience Viewer
 Tool to edit "brainlearn-like" experience.bin file
 
 Prerequisites :<br>
