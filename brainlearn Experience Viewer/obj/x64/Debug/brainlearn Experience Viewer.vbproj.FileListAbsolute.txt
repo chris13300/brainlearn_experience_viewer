@@ -1,0 +1,22 @@
+N:\Pour BUREAU\brainlearn Experience Viewer\brainlearn Experience Viewer\bin\x64\Debug\brainlearn Experience Viewer.exe.config
+N:\Pour BUREAU\brainlearn Experience Viewer\brainlearn Experience Viewer\bin\x64\Debug\brainlearn Experience Viewer.exe
+N:\Pour BUREAU\brainlearn Experience Viewer\brainlearn Experience Viewer\bin\x64\Debug\brainlearn Experience Viewer.pdb
+N:\Pour BUREAU\brainlearn Experience Viewer\brainlearn Experience Viewer\bin\x64\Debug\brainlearn Experience Viewer.xml
+N:\Pour BUREAU\brainlearn Experience Viewer\brainlearn Experience Viewer\obj\x64\Debug\brainlearn_Experience_Viewer.frmOptions.resources
+N:\Pour BUREAU\brainlearn Experience Viewer\brainlearn Experience Viewer\obj\x64\Debug\brainlearn_Experience_Viewer.frmPrincipale.resources
+N:\Pour BUREAU\brainlearn Experience Viewer\brainlearn Experience Viewer\obj\x64\Debug\brainlearn_Experience_Viewer.Resources.resources
+N:\Pour BUREAU\brainlearn Experience Viewer\brainlearn Experience Viewer\obj\x64\Debug\brainlearn Experience Viewer.vbproj.GenerateResource.Cache
+N:\Pour BUREAU\brainlearn Experience Viewer\brainlearn Experience Viewer\obj\x64\Debug\brainlearn Experience Viewer.exe
+N:\Pour BUREAU\brainlearn Experience Viewer\brainlearn Experience Viewer\obj\x64\Debug\brainlearn Experience Viewer.xml
+N:\Pour BUREAU\brainlearn Experience Viewer\brainlearn Experience Viewer\obj\x64\Debug\brainlearn Experience Viewer.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\brainlearn Experience Viewer\brainlearn Experience Viewer\bin\x64\Debug\brainlearn Experience Viewer.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\brainlearn Experience Viewer\brainlearn Experience Viewer\bin\x64\Debug\brainlearn Experience Viewer.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\brainlearn Experience Viewer\brainlearn Experience Viewer\bin\x64\Debug\brainlearn Experience Viewer.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\brainlearn Experience Viewer\brainlearn Experience Viewer\bin\x64\Debug\brainlearn Experience Viewer.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\brainlearn Experience Viewer\brainlearn Experience Viewer\obj\x64\Debug\brainlearn_Experience_Viewer.frmOptions.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\brainlearn Experience Viewer\brainlearn Experience Viewer\obj\x64\Debug\brainlearn_Experience_Viewer.frmPrincipale.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\brainlearn Experience Viewer\brainlearn Experience Viewer\obj\x64\Debug\brainlearn_Experience_Viewer.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\brainlearn Experience Viewer\brainlearn Experience Viewer\obj\x64\Debug\brainlearn Experience Viewer.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\brainlearn Experience Viewer\brainlearn Experience Viewer\obj\x64\Debug\brainlearn Experience Viewer.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\brainlearn Experience Viewer\brainlearn Experience Viewer\obj\x64\Debug\brainlearn Experience Viewer.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\brainlearn Experience Viewer\brainlearn Experience Viewer\obj\x64\Debug\brainlearn Experience Viewer.pdb
