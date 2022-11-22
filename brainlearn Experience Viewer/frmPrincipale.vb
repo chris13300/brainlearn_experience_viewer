@@ -258,11 +258,6 @@ afficherbin:
 
         dlgImport.FileName = ""
         dlgImport.InitialDirectory = Environment.CurrentDirectory
-        If My.Computer.Name = "WORKSTATION" Or My.Computer.Name = "BUREAU" Or My.Computer.Name = "TOUR-COURTOISIE" Then
-            dlgImport.InitialDirectory = "E:\JEUX\ARENA CHESS 3.5.1\Engines"
-        ElseIf My.Computer.Name = "HTPC" Or My.Computer.Name = "PLEXI" Or My.Computer.Name = "BOIS" Then
-            dlgImport.InitialDirectory = "D:\JEUX\ARENA CHESS 3.5.1\Engines"
-        End If
         dlgImport.Filter = "Moteur EXE (*.exe)|*.exe"
         dlgImport.ShowDialog()
         If dlgImport.FileName = "" Then
