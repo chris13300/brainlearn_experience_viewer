@@ -37,3 +37,9 @@ After you load a PGN, use the "<<" and ">>" buttons to change the game and the "
 
 After you load an EPD file, use the "<" and ">" buttons to change the position.<br>
 ![epd_file](https://github.com/chris13300/brainlearn_experience_viewer/blob/main/brainlearn%20Experience%20Viewer/bin/x64/Debug/epd_file.jpg)<p>
+
+Which analysis modes to use ?<br>
+all legal moves : it corresponds to the same needs as a MultiPV analysis.<br>
+only played moves : it is useful for improving the evaluation of the learned moves, aligning their depths, etc.<br>
+only moves with positive scores : it is useful in positions containing a lot of learned moves so as not to reanalyze the worst moves.<br>
+search the bestmove : it corresponds to the same needs as a fixed-depth analysis.<p>
