@@ -22,9 +22,9 @@ There are different ways to use this tool :<br>
 
 - If you want to change the move's depth, double-click on its move score/depth<p>
 
-- If you want to add more moves to the current position or update the evaluation of the learned moves, click on the "Analyse" button :<br>
+- If you want to add more moves to the current position or update the evaluation of the learned moves, click on the "Analyse" button.<br>
+Then, configure your engine and click on the "Apply" button<br>
 ![configure_engine](https://github.com/chris13300/brainlearn_experience_viewer/blob/main/brainlearn%20Experience%20Viewer/bin/x64/Debug/configure_engine.jpg)<br>
-configure your engine and click on the "Apply" button<br>
 Then, choose your analysis mode and click on the "ok" button<br>
 ![choose_mode](https://github.com/chris13300/brainlearn_experience_viewer/blob/main/brainlearn%20Experience%20Viewer/bin/x64/Debug/choose_mode.jpg)<p>
 
