@@ -18,14 +18,14 @@ There are different ways to use this tool :<br>
 - click on the "..." button to load a PGN or an EPD file<p>
 
 # How to edit experience data ?
-- If you want to delete a move from the experience data, double-click on the move's index<p>
+- If you want to delete a move from the experience data, double-click on its move's index<p>
 
-- If you want to change the move's depth, double-click on the move score/depth<p>
+- If you want to change the move's depth, double-click on its move score/depth<p>
 
 - If you want to add more moves to the current position or update the evaluation of the learned moves, click on the "Analyse" button :<br>
-configure your engine and click on the "Apply" button<br>
 ![configure_engine](https://github.com/chris13300/brainlearn_experience_viewer/blob/main/brainlearn%20Experience%20Viewer/bin/x64/Debug/configure_engine.jpg)<br>
-choose your analysis mode and click on the "ok" button<br>
+configure your engine and click on the "Apply" button<br>
+Then, choose your analysis mode and click on the "ok" button<br>
 ![choose_mode](https://github.com/chris13300/brainlearn_experience_viewer/blob/main/brainlearn%20Experience%20Viewer/bin/x64/Debug/choose_mode.jpg)<p>
 
 # tips
