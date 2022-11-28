@@ -954,87 +954,87 @@ afficherbin:
     End Sub
 
     Private Sub lblRang1_DoubleClick(sender As Object, e As EventArgs) Handles lblRang1.DoubleClick
-        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup1.Text, lblScore1.Text)
+        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup1.Text)
     End Sub
 
     Private Sub lblRang2_DoubleClick(sender As Object, e As EventArgs) Handles lblRang2.DoubleClick
-        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup2.Text, lblScore2.Text)
+        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup2.Text)
     End Sub
 
     Private Sub lblRang3_DoubleClick(sender As Object, e As EventArgs) Handles lblRang3.DoubleClick
-        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup3.Text, lblScore3.Text)
+        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup3.Text)
     End Sub
 
     Private Sub lblRang4_DoubleClick(sender As Object, e As EventArgs) Handles lblRang4.DoubleClick
-        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup4.Text, lblScore4.Text)
+        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup4.Text)
     End Sub
 
     Private Sub lblRang5_DoubleClick(sender As Object, e As EventArgs) Handles lblRang5.DoubleClick
-        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup5.Text, lblScore5.Text)
+        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup5.Text)
     End Sub
 
     Private Sub lblRang6_DoubleClick(sender As Object, e As EventArgs) Handles lblRang6.DoubleClick
-        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup6.Text, lblScore6.Text)
+        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup6.Text)
     End Sub
 
     Private Sub lblRang7_DoubleClick(sender As Object, e As EventArgs) Handles lblRang7.DoubleClick
-        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup7.Text, lblScore7.Text)
+        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup7.Text)
     End Sub
 
     Private Sub lblRang8_DoubleClick(sender As Object, e As EventArgs) Handles lblRang8.DoubleClick
-        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup8.Text, lblScore8.Text)
+        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup8.Text)
     End Sub
 
     Private Sub lblRang9_DoubleClick(sender As Object, e As EventArgs) Handles lblRang9.DoubleClick
-        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup9.Text, lblScore9.Text)
+        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup9.Text)
     End Sub
 
     Private Sub lblRang10_DoubleClick(sender As Object, e As EventArgs) Handles lblRang10.DoubleClick
-        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup10.Text, lblScore10.Text)
+        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup10.Text)
     End Sub
 
     Private Sub lblRang11_DoubleClick(sender As Object, e As EventArgs) Handles lblRang11.DoubleClick
-        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup11.Text, lblScore11.Text)
+        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup11.Text)
     End Sub
 
     Private Sub lblRang12_DoubleClick(sender As Object, e As EventArgs) Handles lblRang12.DoubleClick
-        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup12.Text, lblScore12.Text)
+        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup12.Text)
     End Sub
 
     Private Sub lblRang13_DoubleClick(sender As Object, e As EventArgs) Handles lblRang13.DoubleClick
-        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup13.Text, lblScore13.Text)
+        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup13.Text)
     End Sub
 
     Private Sub lblRang14_DoubleClick(sender As Object, e As EventArgs) Handles lblRang14.DoubleClick
-        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup14.Text, lblScore14.Text)
+        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup14.Text)
     End Sub
 
     Private Sub lblRang15_DoubleClick(sender As Object, e As EventArgs) Handles lblRang15.DoubleClick
-        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup15.Text, lblScore15.Text)
+        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup15.Text)
     End Sub
 
     Private Sub lblRang16_DoubleClick(sender As Object, e As EventArgs) Handles lblRang16.DoubleClick
-        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup16.Text, lblScore16.Text)
+        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup16.Text)
     End Sub
 
     Private Sub lblRang17_DoubleClick(sender As Object, e As EventArgs) Handles lblRang17.DoubleClick
-        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup17.Text, lblScore17.Text)
+        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup17.Text)
     End Sub
 
     Private Sub lblRang18_DoubleClick(sender As Object, e As EventArgs) Handles lblRang18.DoubleClick
-        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup18.Text, lblScore18.Text)
+        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup18.Text)
     End Sub
 
     Private Sub lblRang19_DoubleClick(sender As Object, e As EventArgs) Handles lblRang19.DoubleClick
-        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup19.Text, lblScore19.Text)
+        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup19.Text)
     End Sub
 
     Private Sub lblRang20_DoubleClick(sender As Object, e As EventArgs) Handles lblRang20.DoubleClick
-        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup20.Text, lblScore20.Text)
+        supCoup(entree, sortie, tabEPD(indexEPD), lblCoup20.Text)
     End Sub
 
-    Private Sub supCoup(entreeRang As System.IO.StreamWriter, sortieRang As System.IO.StreamReader, epd As String, coup As String, scoreDepth As String)
-        Dim critereBIN(23) As Byte, critereBINbis(23) As Byte, profActuelle As Integer
+    Private Sub supCoup(entreeRang As System.IO.StreamWriter, sortieRang As System.IO.StreamReader, epd As String, coup As String)
+        Dim critereBIN(23) As Byte, critereBINbis(23) As Byte
         Dim lectureBIN As IO.FileStream, tabBIN(23) As Byte, posLecture As Long
         Dim tabBINtmp(23) As Byte, reponse As String
 
@@ -1044,12 +1044,9 @@ afficherbin:
         Cursor = Cursors.WaitCursor
         txtRecherche.Enabled = False
 
-        profActuelle = CInt(Replace(scoreDepth.Substring(scoreDepth.IndexOf("/") + 1), "}", ""))
-
         'position               | Depth |  ?  ?   ?  | score           | move    | ?   ?   | Performance | ?   ?   ?
         '0 1  2  3  4  5  6  7  | 8     |  9  A   B  | C   D   E   F   | 0   1   | 2   3   | 4           | 5   6   7 (24 octets)
         '0 +1 +2 +3 +4 +5 +6 +7 | +8    | +9 +10 +11 | +12 +13 +14 +15 | +16 +17 | +18 +19 | +20         | +21 +22 +23 tabBIN
-        'tabBIN(i+8) = 8 (profondeur)
 
         If MsgBox("Delete '" & coup & "' ?", MsgBoxStyle.YesNo) = MsgBoxResult.Yes Then
             'on prépare un critère de recherche basé sur la position en cours et le coup sélectionné
@@ -1089,39 +1086,36 @@ afficherbin:
                                     If tabBIN(5) = critereBIN(5) Then
                                         If tabBIN(6) = critereBIN(6) Then
                                             If tabBIN(7) = critereBIN(7) Then
-                                                'profondeur
-                                                If tabBIN(8) = profActuelle Then
-                                                    'coup
-                                                    If (tabBIN(16) = critereBIN(16) And tabBIN(17) = critereBIN(17)) _
-                                                    Or (tabBIN(16) = critereBINbis(16) And tabBIN(17) = critereBINbis(17)) Then
-                                                        'pour effacer ce coup,
-                                                        If posLecture >= 24 Then
-                                                            'on se place sur l'entrée précédente
-                                                            lectureBIN.Position = posLecture - 24
-                                                            'on lit l'entrée précédente
-                                                            lectureBIN.Read(tabBINtmp, 0, tabBINtmp.Length)
+                                                'coup
+                                                If (tabBIN(16) = critereBIN(16) And tabBIN(17) = critereBIN(17)) _
+                                                Or (tabBIN(16) = critereBINbis(16) And tabBIN(17) = critereBINbis(17)) Then
+                                                    'pour effacer ce coup,
+                                                    If posLecture >= 24 Then
+                                                        'on se place sur l'entrée précédente
+                                                        lectureBIN.Position = posLecture - 24
+                                                        'on lit l'entrée précédente
+                                                        lectureBIN.Read(tabBINtmp, 0, tabBINtmp.Length)
 
-                                                            'on l'écrase avec les données de celui d'avant
-                                                            For j = 0 To 23
-                                                                lectureBIN.Position = posLecture + j
-                                                                lectureBIN.WriteByte(tabBINtmp(j))
-                                                            Next
-                                                        Else
-                                                            'on lit l'entrée suivante
-                                                            lectureBIN.Read(tabBINtmp, 0, tabBINtmp.Length)
-                                                            'on se place sur l'entrée actuelle
-                                                            lectureBIN.Position = posLecture
+                                                        'on l'écrase avec les données de celui d'avant
+                                                        For j = 0 To 23
+                                                            lectureBIN.Position = posLecture + j
+                                                            lectureBIN.WriteByte(tabBINtmp(j))
+                                                        Next
+                                                    Else
+                                                        'on lit l'entrée suivante
+                                                        lectureBIN.Read(tabBINtmp, 0, tabBINtmp.Length)
+                                                        'on se place sur l'entrée actuelle
+                                                        lectureBIN.Position = posLecture
 
-                                                            'ou celui d'après
-                                                            For j = 0 To 23
-                                                                lectureBIN.Position = posLecture + j
-                                                                lectureBIN.WriteByte(tabBINtmp(j))
-                                                            Next
-                                                        End If
-
-                                                        'dans tous les cas on sort ! (Sinon si le fichier n'était pas défragmenté, ça peut boucler très très longtemps)
-                                                        Exit While
+                                                        'ou celui d'après
+                                                        For j = 0 To 23
+                                                            lectureBIN.Position = posLecture + j
+                                                            lectureBIN.WriteByte(tabBINtmp(j))
+                                                        Next
                                                     End If
+
+                                                    'dans tous les cas on sort ! (Sinon si le fichier n'était pas défragmenté, ça peut boucler très très longtemps)
+                                                    Exit While
                                                 End If
                                             End If
                                         End If
